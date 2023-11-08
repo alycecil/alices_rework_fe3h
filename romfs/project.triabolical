@@ -1,0 +1,8 @@
+Triabolical Project File
+Version: 0.9.6 Release Version
+Project Name: alices
+Flags: 8 1 0 0 0 0 0 0 0
+romFS: C:\Users\alyce\AppData\Roaming\yuzu\load\010055D009F78000\alices_rework\romfs
+dump: C:\Users\alyce\AppData\Roaming\yuzu\dump\010055D009F78000\romfs
+scenario: patch4\common\scenario
+data: patch4\nx\data
